@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=autoexport
+X-Python-2-Compatible=false
+X-Krita-Manual=autoexport.html
+Name=Auto Export
+Comment=Automatically exports files
